@@ -1,10 +1,5 @@
 {
   "framework": "nextjs",
   "buildCommand": "next build",
-  "outputDirectory": ".next",
-  "env": {
-    "GROQ_API_KEY": "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",
-    "NEXT_PUBLIC_SUPABASE_URL": "https://nicrtgjsvnzfmdcjfirk.supabase.co",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5pY3J0Z2pzdm56Zm1kY2pmaXJrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc0MDM0NDksImV4cCI6MjA5Mjk3OTQ0OX0.N17Iu5151YrnEz_bzN1QAr0xp1H_B2j09BxRS4mnFJA"
-  }
+  "outputDirectory": ".next"
 }
